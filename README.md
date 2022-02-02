@@ -3,3 +3,6 @@ Run in foreground
 
 Run in background
 `docker run -dt llamashoes/telnetstarwars:latest`
+
+To quit telnet
+`ctrl + D`
